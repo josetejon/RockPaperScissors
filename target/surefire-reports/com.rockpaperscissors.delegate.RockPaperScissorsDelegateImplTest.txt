@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.rockpaperscissors.delegate.RockPaperScissorsDelegateImplTest
--------------------------------------------------------------------------------
-Tests run: 64, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.873 sec
