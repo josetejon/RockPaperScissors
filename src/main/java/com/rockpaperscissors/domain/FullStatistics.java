@@ -1,10 +1,13 @@
 package com.rockpaperscissors.domain;
 
+import org.springframework.stereotype.Component;
+
 /**
  * Class with statics attributes to store the information
  * @author jose
  *
  */
+@Component
 public class FullStatistics {
 	private static int playerOneWon;
 	private static int playerTwoWon;
