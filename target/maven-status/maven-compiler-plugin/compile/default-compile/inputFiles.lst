@@ -1,0 +1,15 @@
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/RPSRequest.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/delegate/RockPaperScissorsDelegate.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/filter/CorsFilter.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/Movement.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/controller/RockPaperScissorsControllerImp.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/App.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/delegate/StatisticsDelegate.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/Player.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/delegate/StatisticsDelegateImpl.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/delegate/RockPaperScissorsDelegateImpl.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/RPSResponse.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/controller/RockPaperScissorsController.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/Movements.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/FullStatistics.java
+/home/jose/Documents/RockPaperScissor/rockpaperscissors/src/main/java/com/rockpaperscissors/domain/StatsResponse.java

@@ -1,0 +1,15 @@
+com/rockpaperscissors/delegate/StatisticsDelegateImpl.class
+com/rockpaperscissors/domain/StatsResponse.class
+com/rockpaperscissors/domain/Movements.class
+com/rockpaperscissors/filter/CorsFilter.class
+com/rockpaperscissors/domain/FullStatistics.class
+com/rockpaperscissors/delegate/RockPaperScissorsDelegate.class
+com/rockpaperscissors/controller/RockPaperScissorsController.class
+com/rockpaperscissors/controller/RockPaperScissorsControllerImp.class
+com/rockpaperscissors/domain/Player.class
+com/rockpaperscissors/domain/RPSResponse.class
+com/rockpaperscissors/delegate/RockPaperScissorsDelegateImpl.class
+com/rockpaperscissors/App.class
+com/rockpaperscissors/domain/Movement.class
+com/rockpaperscissors/domain/RPSRequest.class
+com/rockpaperscissors/delegate/StatisticsDelegate.class
